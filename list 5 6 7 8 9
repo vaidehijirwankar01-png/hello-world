@@ -1,0 +1,10 @@
+a=[10,20,30,40,50]
+print("list created:",a)
+print("first elements:",a[0])
+print("slice[1:3]",a[1:3])
+a[2]=22
+print("mutuable:",a)
+a.append(20)
+print("append:",a)
+a.remove(40)
+print("removed:",a)
