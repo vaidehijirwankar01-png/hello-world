@@ -1,0 +1,5 @@
+a=45
+if a%2=0
+print(the number is not odd)
+else
+print(the number is odd)
