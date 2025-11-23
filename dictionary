@@ -1,0 +1,2 @@
+student_info={"name": "Alice", "age": 30, "city": "New York"}
+print(student_info["name"])
