@@ -1,0 +1,4 @@
+a=(10,20,30,40,50)
+print("tuple creation:",a)
+print("second element:",a[1])
+print("slice[1,4]:",a[1:4])
