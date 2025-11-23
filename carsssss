@@ -1,0 +1,4 @@
+cars = ["BMW", "Audi", "Tesla"]
+
+for c in cars:
+    print(c)
