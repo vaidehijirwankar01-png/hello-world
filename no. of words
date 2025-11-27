@@ -1,0 +1,3 @@
+sentence="python is a very interesting"
+word=sentence.split
+print(len(word))
